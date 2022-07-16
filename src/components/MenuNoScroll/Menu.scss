@@ -1,0 +1,33 @@
+.dropdown {
+  width: 200px;
+  position: relative;
+}
+.dropdown__btn {
+  font-size: 1.4rem;
+  color: #bababa;
+  padding: 12px 0;
+  cursor: pointer;
+}
+.dropdown__content {
+  width: 200px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+.dropdown__item {
+  font-size: 1.4rem;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+
+  &:hover {
+    color: #0046a6;
+  }
+}
+.menu_active {
+  color: #222;
+}

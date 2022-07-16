@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #222;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="icon_account" transform="translate(-1.5 -1.5)">
+    <path id="패스_15303" data-name="패스 15303" class="cls-1" d="M14.579,17.534a1.657,1.657,0,0,0-.414,0,5.652,5.652,0,1,1,.414,0Z" transform="translate(2.628 2.115)"/>
+    <path id="패스_15304" data-name="패스 15304" class="cls-1" d="M25.48,21.353a14.969,14.969,0,0,1-20.22,0,5.518,5.518,0,0,1,2.655-3.87,14.6,14.6,0,0,1,14.91,0A5.518,5.518,0,0,1,25.48,21.353Z" transform="translate(1.63 6.717)"/>
+    <path id="패스_15305" data-name="패스 15305" class="cls-2" d="M17,32A15,15,0,1,0,2,17,15,15,0,0,0,17,32Z"/>
+  </g>
+</svg>

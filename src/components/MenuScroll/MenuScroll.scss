@@ -1,0 +1,35 @@
+.year {
+  width: 200px;
+  position: relative;
+}
+.year__btn {
+  font-size: 1.4rem;
+  color: #bababa;
+  padding: 12px 0;
+  cursor: pointer;
+}
+.year__content {
+  width: 200px;
+  height: 172px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 81%;
+  left: -21px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+.year__item {
+  font-size: 1.4rem;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+
+  &:hover {
+    color: #0046a6;
+  }
+}
+.menu_active {
+  color: #222;
+}
